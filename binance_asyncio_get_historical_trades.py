@@ -65,7 +65,9 @@ async def get_trades(symbols):
                     else:
                         json_response = await response.json()
                         response_length = len(json_response)
+                        params['fromId'] = json_response[-1]['id']
                         do_something_with_data(json_response)
+
 
 
 if __name__ == '__main__':

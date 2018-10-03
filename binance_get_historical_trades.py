@@ -67,6 +67,7 @@ def get_trades(symbols):
                 else:
                     response = response.json()
                     response_length = len(response)
+                    params['fromId'] = response[-1]['id']
                     do_something_with_data(response)
 
 if __name__ == '__main__':
