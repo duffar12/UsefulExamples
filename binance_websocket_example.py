@@ -3,26 +3,30 @@ import json
 import gzip
 import logging
 import requests
+import pandas as pd
 
 logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 logger = logging.getLogger()
 
 def get_pairs():
-    url = 'https://api.huobi.pro/v1/common/symbols'
-    response = requests.get(url).json()['data']
-    symbols = [r['symbol'] for r in response]
-    return symbols
+    r = requests.get('https://api.binance.com/api/v1/exchangeInfo').json()['symbols']
+    response = json.dumps(r)
+    symbols = pd.read_json(response).rename(columns={0:"symbol"})
+    symbols_list = symbols['symbol'].tolist()
+    return symbols_list
+    #symbols = [x['symbol'] for x in r]
+    #return symbols
 
 
 def on_message(ws, message):
-    result = json.loads(gzip.decompress(message).decode('utf-8'))
+    result = json.loads(message)
+    print(type(result['data']['q']))
+    print(float(result['data']['q']))
     print(result)
 
 
 def on_open(ws):
-    for pair in ['ltcbtc', 'ethbtc']:
-        print("subscribing to pair {}".format(pair))
-        ws.send(json.dumps({"sub": "market.{}.trade.detail".format(pair), "id": pair}).encode())
+    print("opendlsjaflsdja")
 
 def on_error(ws, error):
     print("hit error " + error)
@@ -34,7 +38,7 @@ def on_close():
 
 if __name__ == '__main__':
 
-    url = 'wss://api.huobi.pro/ws'
+    url = 'wss://stream.binance.com:9443/stream?streams=btcusdt@trade/ethusdt@trade/'
     ws = websocket.WebSocketApp(url
                                 ,on_open=on_open
                                 ,on_message=on_message

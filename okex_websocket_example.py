@@ -1,6 +1,5 @@
 import websocket
 import json
-import gzip
 import logging
 import requests
 
@@ -8,21 +7,23 @@ logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 logger = logging.getLogger()
 
 def get_pairs():
-    url = 'https://api.huobi.pro/v1/common/symbols'
-    response = requests.get(url).json()['data']
+    url = 'https://www.okex.com/api/v1/tickers.do'
+    response = requests.get(url).json()['tickers']
     symbols = [r['symbol'] for r in response]
     return symbols
 
+def on_open(ws):
+    subscriptions = [{'event':'addChannel','channel':'ok_sub_spot_bch_btc_deals'}
+                    ,{'event':'addChannel','channel':'ok_sub_spot_eth_btc_deals'}]
+    for subscription in subscriptions:
+        print("subscribing to subscritpion {}".format(subscription['channel']))
+        ws.send(json.dumps(subscription).encode())
+
 
 def on_message(ws, message):
-    result = json.loads(gzip.decompress(message).decode('utf-8'))
+    result = json.loads(message)
     print(result)
 
-
-def on_open(ws):
-    for pair in ['ltcbtc', 'ethbtc']:
-        print("subscribing to pair {}".format(pair))
-        ws.send(json.dumps({"sub": "market.{}.trade.detail".format(pair), "id": pair}).encode())
 
 def on_error(ws, error):
     print("hit error " + error)
@@ -34,11 +35,13 @@ def on_close():
 
 if __name__ == '__main__':
 
-    url = 'wss://api.huobi.pro/ws'
+    print(get_pairs())
+
+    url = 'wss://real.okex.com:10441/websocket'
     ws = websocket.WebSocketApp(url
                                 ,on_open=on_open
                                 ,on_message=on_message
                                 ,on_close=on_close
                                 ,on_error=on_error )
 
-    ws.run_forever(ping_interval=1)
+    ws.run_forever()
