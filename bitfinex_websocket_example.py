@@ -44,6 +44,8 @@ class WSClient(object):
             ,"symbol": 'tBTCUSD'} 
 
         ws.send(json.dumps(s))
+        s = { "event": "conf","flags": 98304 }
+        ws.send(json.dumps(s))
         #ws.send(json.dumps(self.get_auth_subscription()))
 
     def on_message(self, ws, message):
