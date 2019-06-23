@@ -1,0 +1,364 @@
+matched
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+	<title>News</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="referrer" content="always" />
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=Omyvvrq5Xk">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=Omyvvrq5Xk">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=Omyvvrq5Xk">
+	<link rel="manifest" href="/assets/favicon/site.webmanifest?v=Omyvvrq5Xk">
+	<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=Omyvvrq5Xk" color="#6200ea">
+	<link rel="shortcut icon" href="/assets/favicon/favicon.ico?v=Omyvvrq5Xk">
+	<meta name="apple-mobile-web-app-title" content="Cryptonews">
+	<meta name="application-name" content="Cryptonews">
+	<meta name="msapplication-TileColor" content="#6200ea">
+	<meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?v=Omyvvrq5Xk">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="msvalidate.01" content="F739E148C7096190277D8BDBEC2FBB57" />
+	
+	<script type="text/javascript">
+	var _errors_url_ = "//adm.cryptonews.com/report-js-error.php?src=com";
+	window.onerror = function (msg, url, line, col, error) {
+		window.pg_errors = window.pg_errors || [];
+		window.pg_errors.push({message:msg, filename:url, lineno:line, error:error});
+	}
+	</script>
+	<!-- marius:  -->
+	<link rel="stylesheet" href="/assets/css/app.css?1537531201" type="text/css" media="screen">
+	<link rel="stylesheet" href="/assets/css/articles.css?1537531201" type="text/css" media="screen">
+	<link rel="canonical" href="https://cryptonews.com/news/" />
+	
+		<script>window.__INITIAL_WIDGET_STATE__ = {"price_tracker":"\/price-tracker\/","config":{"type":"summary"},"translations":{"best_rates":"Buy\/Sell at the best rates","profitable_exchange":"Profitable Exchange","buy":"Buy for","sell":"Sell for","see_more_rates":"See more rates","market":"Market","highest":"Highest","lowest":"Lowest","view_all":"View all <span>exchanges<\/span>","supported_currencies":"Supported Currencies","internal_conversion":"Converted","internal_conversion_header":"Converted Price"},"data":{"6":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5b2\/0d656d022d.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a6\/568298bf5e.svg","url":"https:\/\/cryptonews.com\/ext\/coinbase\/","review_url":"https:\/\/cryptonews.com\/reviews\/coinbase\/"},"1":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a6\/56fe6af617.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/cd3db2bea6.svg","url":"https:\/\/cryptonews.com\/ext\/hitbtc\/","review_url":"https:\/\/cryptonews.com\/reviews\/hitbtc\/"},"4":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5b2\/0d64cb9231.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a6\/57368214d8.svg","url":"https:\/\/cryptonews.com\/ext\/bitfinex\/","review_url":"https:\/\/cryptonews.com\/reviews\/bitfinex\/"},"9":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5b2\/0d7875ab17.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a6\/574935a189.svg","url":"https:\/\/cryptonews.com\/ext\/kraken\/","review_url":"https:\/\/cryptonews.com\/reviews\/kraken\/"},"7":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5be\/1486e7b68b.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5bd\/c3e4f329b1.svg","url":"https:\/\/cryptonews.com\/ext\/coinbase-pro\/","review_url":"https:\/\/cryptonews.com\/reviews\/coinbase-pro\/"},"8":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a7\/4b2b325423.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5a7\/4b2b335865.svg","url":"https:\/\/cryptonews.com\/ext\/bitstamp\/","review_url":"https:\/\/cryptonews.com\/reviews\/bitstamp\/"},"2":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/92bec380e3.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/92c01393c0.svg","url":"https:\/\/cryptonews.com\/ext\/bittrex\/","review_url":"https:\/\/cryptonews.com\/reviews\/bittrex\/"},"5":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/92c5f8df75.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/92c5f9c240.svg","url":"https:\/\/cryptonews.com\/ext\/binance\/","review_url":"https:\/\/cryptonews.com\/reviews\/binance\/"},"3":{"short":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/a32afb43dc.svg","full":"https:\/\/cimg.co\/w\/rw-logo\/0\/5ab\/a32afc21ab.svg","url":"https:\/\/cryptonews.com\/ext\/bitflyer\/","review_url":"https:\/\/cryptonews.com\/reviews\/bitflyer\/"}}};</script>
+<script>
+  !function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",[
+  "/assets/js/app.js?1537531201",
+"https://api.cryptonews.com/public/js/jquery.min.js",
+"https://api.cryptonews.com/public/js/bundle.js"
+])
+</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-112379115-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-112379115-1');
+</script>
+</head>
+<body class="site-en" id="body-news">
+<div class="app">
+<header class="cn-app-header">
+	<a href="/" class="logo">
+		<img src="/assets/img/logo.svg?1" width="194" height="60" alt="Cryptonews">
+	</a>
+	<div class="cn-combo-nav">
+		<nav class="main-nav">
+			<div>
+				<a href="/news/" class="active"><span>News</span></a>
+				
+				<div class="cn-sub-nav">
+					<a href="/news/bitcoin-news/"><span>Bitcoin News</span></a><a href="/news/ethereum-news/"><span>Ethereum News</span></a><a href="/news/altcoin-news/"><span>Altcoin News</span></a><a href="/news/blockchain-news/"><span>Blockchain News</span></a><a href="/news/press-releases/"><span>Press Releases</span></a><a href="/news/sponsored/"><span>Sponsored</span></a>
+				</div>
+				
+			</div><div>
+				<a href="/exclusives/"><span>Exclusives</span></a>
+				
+				<div class="cn-sub-nav">
+					<a href="/exclusives/features/"><span>Features</span></a><a href="/exclusives/opinions/"><span>Opinions</span></a><a href="/exclusives/people/"><span>People In Crypto</span></a>
+				</div>
+				
+			</div><div>
+				<a href="/videos/"><span>Videos</span></a>
+				
+				<div class="cn-sub-nav">
+					<a href="/videos/ethereum/"><span>Ethereum Videos</span></a><a href="/videos/altcoin/"><span>Altcoin Videos</span></a><a href="/videos/bitcoin/"><span>Bitcoin Videos</span></a><a href="/videos/blockchain/"><span>Blockchain Videos</span></a><a href="/videos/icos/"><span>ICO Videos</span></a><a href="/videos/market/"><span>Market Videos</span></a><a href="/videos/trading/"><span>Trading Videos</span></a><a href="/videos/crytposecurity/"><span>Security Videos</span></a>
+				</div>
+				
+			</div><div>
+				<a href="/icos/"><span>ICOs</span></a>
+				
+				<div class="cn-sub-nav">
+					<a href="/icos/news/"><span>News</span></a><a href="/icos/interviews/"><span>Interviews</span></a><a href="/icos/quick-reviews/"><span>Quick Reviews</span></a><a href="/icos/press-releases/"><span>Press Releases</span></a>
+				</div>
+				
+			</div><div>
+				<a href="/guides/"><span>Guides</span></a>
+				
+				<div class="cn-sub-nav">
+					<a href="/guides/bitcoin/"><span>Bitcoin</span></a><a href="/guides/ethereum/"><span>Ethereum</span></a><a href="/guides/blockchain/"><span>Blockchain</span></a><a href="/guides/icos/"><span>ICOs</span></a><a href="/guides/cryptocurrency/"><span>Cryptocurrency</span></a><a href="/guides/altcoins/"><span>Altcoins</span></a>
+				</div>
+				
+			</div><div>
+				<a href="/reviews/"><span>Reviews</span></a>
+				
+			</div><div>
+				<a href="/coins/"><span>Coins</span></a>
+				
+			</div><div>
+				<a href="/price-tracker/"><span>Price Tracker</span></a>
+				
+			</div>
+			<div class="cn-langs-toggler">
+				<a><span>EN</span></a>
+				<div class="cn-sub-nav">
+				<a href="https://ar.cryptonews.com">AR</a><a href="https://de.cryptonews.com">DE</a><a href="https://fr.cryptonews.com">FR</a><a href="https://nl.cryptonews.com">NL</a>
+				</div> 
+			</div>
+		</nav>
+
+
+		<div class="cn-spacer"></div>
+		<nav class="cn-social-links">
+			<a href="https://t.me/cryptonews_official" target="_blank" rel="noopener">Telegram</a>
+			<a href="https://www.facebook.com/cryptonewscom-720874761445956/" target="_blank" rel="noopener">Facebook</a>
+			<a href="https://twitter.com/CryptonewsCom" target="_blank" rel="noopener">Twitter</a>
+			<a href="https://www.youtube.com/channel/UCq1LxxUw6DVELFN0wOmLLQw?disable_polymer=true" target="_blank" rel="noopener">YouTube</a>
+		</nav>
+		<div class="cn-search-bar">
+			<form action="/search/">
+				<input type="search" name="q" placeholder="What are you searching for?" aria-label="search">
+				<button type="submit"><span data-icon="&#xe904;"></span></button>
+			</form>
+		</div>
+		<div>
+			<div class="search-toggler"></div>
+		</div>
+	</div>
+	<div class="cn-nav-toggler">
+		<span></span>
+	</div>
+</header>
+
+
+
+
+<div class="cn-invite-fixed">
+	<div class="centered">
+		<p>Follow us on <a href="https://twitter.com/CryptonewsCom" target="_blank">Twitter</a> or join our <a href="https://t.me/cryptonews_official" target="_blank">Telegram</a></p>
+	</div>
+	<div class="dismiss"></div>
+</div>
+
+<section class="cn-news-grid">
+	<header class="cn-section-header border">
+		<h1>Latest News</h1>
+		<!--  -->
+		
+		
+		<nav class="cn-section-nav inline">
+			<a href="/news/" class="active">Recent</a><a href="/news/popular-this-week/">Popular this week</a><a href="/news/popular-this-month/">Popular this month</a>
+		</nav>
+		
+	</header>
+	<div class="cn-list grid">
+		<div class="cn-tile article">
+			<a href="/news/taiwanese-city-wants-to-woo-tourists-with-stablecoin-3173.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/588acb79a4.jpg" srcset="https://cimg.co/w/articles/1/5c3/588acb79a4.jpg 150w, https://cimg.co/w/articles/2/5c3/588acb79a4.jpg 300w, https://cimg.co/w/articles/3/5c3/588acb79a4.jpg 600w, https://cimg.co/w/articles/4/5c3/588acb79a4.jpg 1200w" sizes="(min-width: 1280px) 620px, (min-width: 640px) 66vw, 50vw" alt="Source: iStock/hxdyl">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/altcoin-news/">Altcoin News</a>
+					<i><time datetime="2019-01-09T07:37:00+02:00">50  mins ago</time></i>
+				</span>
+				<h4><a href="/news/taiwanese-city-wants-to-woo-tourists-with-stablecoin-3173.htm">Taiwanese City Wants to Woo Tourists with Stablecoin</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/three-central-banks-plan-to-issue-digital-currency-3172.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/4da34e03af.jpg" srcset="https://cimg.co/w/articles/1/5c3/4da34e03af.jpg 150w, https://cimg.co/w/articles/2/5c3/4da34e03af.jpg 300w, https://cimg.co/w/articles/3/5c3/4da34e03af.jpg 600w, https://cimg.co/w/articles/4/5c3/4da34e03af.jpg 1200w" sizes="(min-width: 1280px) 320px, (min-width: 640px) 33vw, 50vw" alt="Source: iStock/William_Potter">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/altcoin-news/">Altcoin News</a>
+					<i><time datetime="2019-01-08T19:12:00+02:00">13  h  15  mins ago</time></i>
+				</span>
+				<h4><a href="/news/three-central-banks-plan-to-issue-digital-currency-3172.htm">Three Central Banks Plan to Issue Digital Currency</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/poland-starts-its-crypto-tax-experiment-3165.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/48c03c3f4a.jpg" srcset="https://cimg.co/w/articles/1/5c3/48c03c3f4a.jpg 150w, https://cimg.co/w/articles/2/5c3/48c03c3f4a.jpg 300w, https://cimg.co/w/articles/3/5c3/48c03c3f4a.jpg 600w, https://cimg.co/w/articles/4/5c3/48c03c3f4a.jpg 1200w" sizes="(min-width: 1280px) 320px, (min-width: 640px) 33vw, 50vw" alt="Source: iStock/darrro">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/">News</a>
+					<i><time datetime="2019-01-08T15:53:00+02:00">16  h  34  mins ago</time></i>
+				</span>
+				<h4><a href="/news/poland-starts-its-crypto-tax-experiment-3165.htm">Poland Starts Its Crypto Tax Experiment</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/morgan-creek-self-promotes-again-with-lambo-sale-3171.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/489a316869.jpg" srcset="https://cimg.co/w/articles/1/5c3/489a316869.jpg 150w, https://cimg.co/w/articles/2/5c3/489a316869.jpg 300w, https://cimg.co/w/articles/3/5c3/489a316869.jpg 600w, https://cimg.co/w/articles/4/5c3/489a316869.jpg 1200w" sizes="(min-width: 1280px) 320px, (min-width: 640px) 33vw, 50vw" alt="">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/">News</a>
+					<i><time datetime="2019-01-08T13:29:27+02:00">18  h  58  mins ago</time></i>
+				</span>
+				<h4><a href="/news/morgan-creek-self-promotes-again-with-lambo-sale-3171.htm">Morgan Creek Self-Promotes Again with Lambo Sale</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/should-altcoins-even-exist-the-debate-among-maximalists-3170.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/47d850968e.jpg" srcset="https://cimg.co/w/articles/1/5c3/47d850968e.jpg 150w, https://cimg.co/w/articles/2/5c3/47d850968e.jpg 300w, https://cimg.co/w/articles/3/5c3/47d850968e.jpg 600w, https://cimg.co/w/articles/4/5c3/47d850968e.jpg 1200w" sizes="(min-width: 1280px) 320px, (min-width: 640px) 33vw, 50vw" alt="Source: iStock/BrAt_PiKaChU">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/altcoin-news/">Altcoin News</a>
+					<i><time datetime="2019-01-08T12:37:27+02:00">19  h  50  mins ago</time></i>
+				</span>
+				<h4><a href="/news/should-altcoins-even-exist-the-debate-among-maximalists-3170.htm">Should Altcoins Even Exist? The Debate Among Maximalists</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/bitcoin-and-altcoins-remain-supported-on-dips-3169.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/46b1d3a291.png" srcset="https://cimg.co/w/articles/1/5c3/46b1d3a291.png 150w, https://cimg.co/w/articles/2/5c3/46b1d3a291.png 300w, https://cimg.co/w/articles/3/5c3/46b1d3a291.png 600w, https://cimg.co/w/articles/4/5c3/46b1d3a291.png 1200w" sizes="(min-width: 1280px) 320px, (min-width: 640px) 33vw, 50vw" alt="">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/altcoin-news/">Altcoin News</a>
+					<i><time datetime="2019-01-08T10:54:00+02:00">21  h  33  mins ago</time></i>
+				</span>
+				<h4><a href="/news/bitcoin-and-altcoins-remain-supported-on-dips-3169.htm">Bitcoin and Altcoins Remain Supported On Dips</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/ethereum-classic-under-attack-3168.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/44ae56a1e9.jpg" srcset="https://cimg.co/w/articles/1/5c3/44ae56a1e9.jpg 150w, https://cimg.co/w/articles/2/5c3/44ae56a1e9.jpg 300w, https://cimg.co/w/articles/3/5c3/44ae56a1e9.jpg 600w, https://cimg.co/w/articles/4/5c3/44ae56a1e9.jpg 1200w" sizes="(min-width: 1280px) 200px, (min-width: 640px) 25vw, 50vw" alt="Source: iStock/FooTToo">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/altcoin-news/">Altcoin News</a>
+					<i><time datetime="2019-01-08T09:01:00+02:00">23  h  26  mins ago</time></i>
+				</span>
+				<h4><a href="/news/ethereum-classic-under-attack-3168.htm">Ethereum Classic Under Attack</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/japan-to-close-usd-74m-crypto-investment-loophole-3167.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/431aecf979.jpg" srcset="https://cimg.co/w/articles/1/5c3/431aecf979.jpg 150w, https://cimg.co/w/articles/2/5c3/431aecf979.jpg 300w, https://cimg.co/w/articles/3/5c3/431aecf979.jpg 600w, https://cimg.co/w/articles/4/5c3/431aecf979.jpg 1200w" sizes="(min-width: 1280px) 200px, (min-width: 640px) 25vw, 50vw" alt="Source: iStock/Osamu Takeishi">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/">News</a>
+					<i><time datetime="2019-01-08T07:13:52+02:00">1  day ago</time></i>
+				</span>
+				<h4><a href="/news/japan-to-close-usd-74m-crypto-investment-loophole-3167.htm">Japan to Close USD 74m Crypto Investment Loophole</a></h4>
+			</div>
+		</div><div class="cn-tile article">
+			<a href="/news/bitcoin-treasure-hunt-kicks-off-reward-growing-3166.htm" class="img">
+				<img src="https://cimg.co/w/articles/1/5c3/3556e2a9e5.jpg" srcset="https://cimg.co/w/articles/1/5c3/3556e2a9e5.jpg 150w, https://cimg.co/w/articles/2/5c3/3556e2a9e5.jpg 300w, https://cimg.co/w/articles/3/5c3/3556e2a9e5.jpg 600w, https://cimg.co/w/articles/4/5c3/3556e2a9e5.jpg 1200w" sizes="(min-width: 1280px) 200px, (min-width: 640px) 25vw, 50vw" alt="">
+			</a>
+			<div class="props">
+				<span class="notch">
+					<a href="/news/bitcoin-news/">Bitcoin News</a>
+					<i><time datetime="2019-01-07T15:34:00+02:00">1  day ago</time></i>
+				</span>
+				<h4><a href="/news/bitcoin-treasure-hunt-kicks-off-reward-growing-3166.htm">Bitcoin Treasure Hunt Kicks Off, Reward Growing</a></h4>
+			</div>
+		</div>
+		<a href="https://www.youtube.com/channel/UCq1LxxUw6DVELFN0wOmLLQw?disable_polymer=true" rel="nofollow noopener" title="" target="_blank"
+				class="sponsored" data-bid="9"><img src="https://cimg.co/w/bn/0/5af/1b53a86739.png" alt="" border="0" /></a>
+	</div>
+</section><div id="widget_container"></div><section class="cn-articles-list">
+	<div class="cn-list cols limits" id="newsContainer">
+		<div class="cn-tile article"><a href="/news/history-suggests-ethereum-might-drop-after-the-imminent-hard-3164.htm" class="img"><img src="https://cimg.co/w/articles/1/5c3/340c7530c4.jpg" srcset="https://cimg.co/w/articles/1/5c3/340c7530c4.jpg 150w, https://cimg.co/w/articles/2/5c3/340c7530c4.jpg 300w, https://cimg.co/w/articles/3/5c3/340c7530c4.jpg 600w, https://cimg.co/w/articles/4/5c3/340c7530c4.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/MysteryShot"></a><div class="props"><span class="notch"><a href="/news/ethereum-news/">Ethereum News</a><i><time datetime="2019-01-07T14:06:01+02:00">1  day ago</time></i></span><h4><a href="/news/history-suggests-ethereum-might-drop-after-the-imminent-hard-3164.htm">History Suggests Ethereum Might Drop After the Imminent Hard Fork</a></h4></div></div><div class="cn-tile article"><a href="/news/the-new-possible-hotspot-for-bitcoin-etf-japan-3163.htm" class="img"><img src="https://cimg.co/w/articles/1/5c3/32d8373be1.jpg" srcset="https://cimg.co/w/articles/1/5c3/32d8373be1.jpg 150w, https://cimg.co/w/articles/2/5c3/32d8373be1.jpg 300w, https://cimg.co/w/articles/3/5c3/32d8373be1.jpg 600w, https://cimg.co/w/articles/4/5c3/32d8373be1.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/ilbusca"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-07T12:43:49+02:00">1  day ago</time></i></span><h4><a href="/news/the-new-possible-hotspot-for-bitcoin-etf-japan-3163.htm">The New Possible Hotspot for Bitcoin ETF - Japan</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-and-litecoin-rally-altcoins-might-follow-soon-3162.htm" class="img"><img src="https://cimg.co/w/articles/1/5c3/30f5e6501b.png" srcset="https://cimg.co/w/articles/1/5c3/30f5e6501b.png 150w, https://cimg.co/w/articles/2/5c3/30f5e6501b.png 300w, https://cimg.co/w/articles/3/5c3/30f5e6501b.png 600w, https://cimg.co/w/articles/4/5c3/30f5e6501b.png 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-07T10:35:17+02:00">1  day ago</time></i></span><h4><a href="/news/bitcoin-and-litecoin-rally-altcoins-might-follow-soon-3162.htm">Bitcoin and Litecoin Rally, Altcoins Might Follow Soon</a></h4></div></div><div class="cn-tile article"><a href="/news/new-ledger-nano-x-wallet-features-release-date-price-3161.htm" class="img"><img src="https://cimg.co/w/articles/1/5c3/2e838ae531.jpg" srcset="https://cimg.co/w/articles/1/5c3/2e838ae531.jpg 150w, https://cimg.co/w/articles/2/5c3/2e838ae531.jpg 300w, https://cimg.co/w/articles/3/5c3/2e838ae531.jpg 600w, https://cimg.co/w/articles/4/5c3/2e838ae531.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-07T07:48:00+02:00">2  days ago</time></i></span><h4><a href="/news/new-ledger-nano-x-wallet-features-release-date-price-3161.htm">New Ledger Nano X Wallet: Features, Release Date, Price (UPDATED)</a></h4></div></div><div class="cn-tile article"><a href="/news/fortnite-says-it-enabled-monero-pay-at-store-by-accident-3160.htm" class="img"><img src="https://cimg.co/w/articles/1/5c3/2dc68a7eb4.jpg" srcset="https://cimg.co/w/articles/1/5c3/2dc68a7eb4.jpg 150w, https://cimg.co/w/articles/2/5c3/2dc68a7eb4.jpg 300w, https://cimg.co/w/articles/3/5c3/2dc68a7eb4.jpg 600w, https://cimg.co/w/articles/4/5c3/2dc68a7eb4.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-07T06:57:00+02:00">2  days ago</time></i></span><h4><a href="/news/fortnite-says-it-enabled-monero-pay-at-store-by-accident-3160.htm">Fortnite Says it Enabled Monero Pay at Store ‘by Accident’</a></h4></div></div><div class="cn-tile article"><a href="/news/average-otc-trade-on-circle-was-around-usd-2m-in-2018-3158.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/f896427f8e.jpg" srcset="https://cimg.co/w/articles/1/5c2/f896427f8e.jpg 150w, https://cimg.co/w/articles/2/5c2/f896427f8e.jpg 300w, https://cimg.co/w/articles/3/5c2/f896427f8e.jpg 600w, https://cimg.co/w/articles/4/5c2/f896427f8e.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/fergregory"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-04T18:26:46+02:00">4  days ago</time></i></span><h4><a href="/news/average-otc-trade-on-circle-was-around-usd-2m-in-2018-3158.htm">Average OTC Trade on Circle Was Around USD 2m in 2018</a></h4></div></div><div class="cn-tile article"><a href="/news/bittorrent-coin-news-kept-tron-in-green-despite-divided-reac-3155.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/f4ee934c88.jpg" srcset="https://cimg.co/w/articles/1/5c2/f4ee934c88.jpg 150w, https://cimg.co/w/articles/2/5c2/f4ee934c88.jpg 300w, https://cimg.co/w/articles/3/5c2/f4ee934c88.jpg 600w, https://cimg.co/w/articles/4/5c2/f4ee934c88.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-04T14:17:15+02:00">4  days ago</time></i></span><h4><a href="/news/bittorrent-coin-news-kept-tron-in-green-despite-divided-reac-3155.htm">BitTorrent Coin News Kept Tron in Green Despite Divided Reactions</a></h4></div></div><div class="cn-tile article"><a href="/news/beam-goes-through-mimblewimble-brings-more-privacy-for-crypt-3154.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/f387f1b142.jpg" srcset="https://cimg.co/w/articles/1/5c2/f387f1b142.jpg 150w, https://cimg.co/w/articles/2/5c2/f387f1b142.jpg 300w, https://cimg.co/w/articles/3/5c2/f387f1b142.jpg 600w, https://cimg.co/w/articles/4/5c2/f387f1b142.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/sitox"></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-04T12:41:00+02:00">4  days ago</time></i></span><h4><a href="/news/beam-goes-through-mimblewimble-brings-more-privacy-for-crypt-3154.htm">Beam Goes Through Mimblewimble, Brings More Privacy for Crypto</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-and-altcoins-could-resume-bullish-moves-3153.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/f21af4ae2f.jpg" srcset="https://cimg.co/w/articles/1/5c2/f21af4ae2f.jpg 150w, https://cimg.co/w/articles/2/5c2/f21af4ae2f.jpg 300w, https://cimg.co/w/articles/3/5c2/f21af4ae2f.jpg 600w, https://cimg.co/w/articles/4/5c2/f21af4ae2f.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/monsitj"></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-04T11:04:17+02:00">4  days ago</time></i></span><h4><a href="/news/bitcoin-and-altcoins-could-resume-bullish-moves-3153.htm">Bitcoin and Altcoins Could Resume Bullish Moves</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-traders-remain-hopeful-after-recent-rally-3152.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/f0b92d0511.jpg" srcset="https://cimg.co/w/articles/1/5c2/f0b92d0511.jpg 150w, https://cimg.co/w/articles/2/5c2/f0b92d0511.jpg 300w, https://cimg.co/w/articles/3/5c2/f0b92d0511.jpg 600w, https://cimg.co/w/articles/4/5c2/f0b92d0511.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/SPmemory"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-04T09:29:56+02:00">4  days ago</time></i></span><h4><a href="/news/bitcoin-traders-remain-hopeful-after-recent-rally-3152.htm">Bitcoin Traders Remain Hopeful After Recent Rally</a></h4></div></div><div class="cn-tile article"><a href="/news/crypto-cheer-in-chile-as-exchanges-win-legal-battle-3151.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/ee6a7597f3.jpg" srcset="https://cimg.co/w/articles/1/5c2/ee6a7597f3.jpg 150w, https://cimg.co/w/articles/2/5c2/ee6a7597f3.jpg 300w, https://cimg.co/w/articles/3/5c2/ee6a7597f3.jpg 600w, https://cimg.co/w/articles/4/5c2/ee6a7597f3.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/Martin Barraud"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-04T06:52:25+02:00">5  days ago</time></i></span><h4><a href="/news/crypto-cheer-in-chile-as-exchanges-win-legal-battle-3151.htm">Crypto Cheer in Chile as Exchanges Win Legal Battle</a></h4></div></div><div class="cn-tile article"><a href="/news/the-world-on-brink-of-second-decade-of-bitcoin-3149.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/e308e9fdaa.jpg" srcset="https://cimg.co/w/articles/1/5c2/e308e9fdaa.jpg 150w, https://cimg.co/w/articles/2/5c2/e308e9fdaa.jpg 300w, https://cimg.co/w/articles/3/5c2/e308e9fdaa.jpg 600w, https://cimg.co/w/articles/4/5c2/e308e9fdaa.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-03T17:55:00+02:00">5  days ago</time></i></span><h4><a href="/news/the-world-on-brink-of-second-decade-of-bitcoin-3149.htm">The World on Brink of Second Decade of Bitcoin</a></h4></div></div><div class="cn-tile article"><a href="/news/you-might-be-able-to-buy-apple-stock-on-ethereum-3148.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/e0ae0192d2.jpg" srcset="https://cimg.co/w/articles/1/5c2/e0ae0192d2.jpg 150w, https://cimg.co/w/articles/2/5c2/e0ae0192d2.jpg 300w, https://cimg.co/w/articles/3/5c2/e0ae0192d2.jpg 600w, https://cimg.co/w/articles/4/5c2/e0ae0192d2.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/Nikada"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-03T15:14:42+02:00">5  days ago</time></i></span><h4><a href="/news/you-might-be-able-to-buy-apple-stock-on-ethereum-3148.htm">You Might be Able to Buy Apple Stock on Ethereum</a></h4></div></div><div class="cn-tile article"><a href="/news/proof-of-keys-day-binance-ceo-indifferent-coinbase-gives-a-l-3147.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/deb8b06ecc.jpg" srcset="https://cimg.co/w/articles/1/5c2/deb8b06ecc.jpg 150w, https://cimg.co/w/articles/2/5c2/deb8b06ecc.jpg 300w, https://cimg.co/w/articles/3/5c2/deb8b06ecc.jpg 600w, https://cimg.co/w/articles/4/5c2/deb8b06ecc.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/JTSorrell"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-03T13:01:00+02:00">5  days ago</time></i></span><h4><a href="/news/proof-of-keys-day-binance-ceo-indifferent-coinbase-gives-a-l-3147.htm">Proof of Keys Day: Binance CEO Indifferent, Coinbase Gives a Lesson</a></h4></div></div><div class="cn-tile article"><a href="/news/ethereum-overtakes-xrp-following-impressive-rally-3146.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/dd1c0028bc.jpg" srcset="https://cimg.co/w/articles/1/5c2/dd1c0028bc.jpg 150w, https://cimg.co/w/articles/2/5c2/dd1c0028bc.jpg 300w, https://cimg.co/w/articles/3/5c2/dd1c0028bc.jpg 600w, https://cimg.co/w/articles/4/5c2/dd1c0028bc.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/rclassenlayouts"></a><div class="props"><span class="notch"><a href="/news/ethereum-news/">Ethereum News</a><i><time datetime="2019-01-03T11:11:01+02:00">5  days ago</time></i></span><h4><a href="/news/ethereum-overtakes-xrp-following-impressive-rally-3146.htm">Ethereum Overtakes XRP Following Impressive Rally</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-and-altcoins-gain-pace-3145.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/dc50495900.jpg" srcset="https://cimg.co/w/articles/1/5c2/dc50495900.jpg 150w, https://cimg.co/w/articles/2/5c2/dc50495900.jpg 300w, https://cimg.co/w/articles/3/5c2/dc50495900.jpg 600w, https://cimg.co/w/articles/4/5c2/dc50495900.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/plusphoto"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-03T10:16:38+02:00">5  days ago</time></i></span><h4><a href="/news/bitcoin-and-altcoins-gain-pace-3145.htm">Bitcoin and Altcoins Gain Pace</a></h4></div></div><div class="cn-tile article"><a href="/news/reports-korbit-and-bitstamp-might-get-a-new-owner-3144.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/da23f0a956.jpg" srcset="https://cimg.co/w/articles/1/5c2/da23f0a956.jpg 150w, https://cimg.co/w/articles/2/5c2/da23f0a956.jpg 300w, https://cimg.co/w/articles/3/5c2/da23f0a956.jpg 600w, https://cimg.co/w/articles/4/5c2/da23f0a956.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/Martin Barraud"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-03T07:48:00+02:00">6  days ago</time></i></span><h4><a href="/news/reports-korbit-and-bitstamp-might-get-a-new-owner-3144.htm">Reports: Korbit and Bitstamp Might Get a New Owner</a></h4></div></div><div class="cn-tile article"><a href="/news/top-10-crypto-projects-by-tech-development-3143.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/cc27a1ffe4.jpg" srcset="https://cimg.co/w/articles/1/5c2/cc27a1ffe4.jpg 150w, https://cimg.co/w/articles/2/5c2/cc27a1ffe4.jpg 300w, https://cimg.co/w/articles/3/5c2/cc27a1ffe4.jpg 600w, https://cimg.co/w/articles/4/5c2/cc27a1ffe4.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/mfto"></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-02T15:53:32+02:00">6  days ago</time></i></span><h4><a href="/news/top-10-crypto-projects-by-tech-development-3143.htm">Top 10 Crypto Projects by Tech Development</a></h4></div></div><div class="cn-tile article"><a href="/news/hitbtc-under-fire-due-to-disabled-withdrawals-3142.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/ca7bb1dea9.jpg" srcset="https://cimg.co/w/articles/1/5c2/ca7bb1dea9.jpg 150w, https://cimg.co/w/articles/2/5c2/ca7bb1dea9.jpg 300w, https://cimg.co/w/articles/3/5c2/ca7bb1dea9.jpg 600w, https://cimg.co/w/articles/4/5c2/ca7bb1dea9.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/SIphotography"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-02T13:59:00+02:00">6  days ago</time></i></span><h4><a href="/news/hitbtc-under-fire-due-to-disabled-withdrawals-3142.htm">HitBTC Under Fire Due to Disabled Withdrawals (UPDATED)</a></h4></div></div><div class="cn-tile article"><a href="/news/coin-race-top-10-winners-losers-of-december-4q-and-2018-3141.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/c96ff154ef.jpg" srcset="https://cimg.co/w/articles/1/5c2/c96ff154ef.jpg 150w, https://cimg.co/w/articles/2/5c2/c96ff154ef.jpg 300w, https://cimg.co/w/articles/3/5c2/c96ff154ef.jpg 600w, https://cimg.co/w/articles/4/5c2/c96ff154ef.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/stevecoleimages"></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-02T12:48:00+02:00">6  days ago</time></i></span><h4><a href="/news/coin-race-top-10-winners-losers-of-december-4q-and-2018-3141.htm">Coin Race: Top 10 Winners &amp; Losers of December, 4Q, and 2018</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-and-altcoins-could-gain-bullish-momentum-3140.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/c75254ec88.jpg" srcset="https://cimg.co/w/articles/1/5c2/c75254ec88.jpg 150w, https://cimg.co/w/articles/2/5c2/c75254ec88.jpg 300w, https://cimg.co/w/articles/3/5c2/c75254ec88.jpg 600w, https://cimg.co/w/articles/4/5c2/c75254ec88.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/ugurhan"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2019-01-02T10:23:35+02:00">6  days ago</time></i></span><h4><a href="/news/bitcoin-and-altcoins-could-gain-bullish-momentum-3140.htm">Bitcoin and Altcoins Could Gain Bullish Momentum</a></h4></div></div><div class="cn-tile article"><a href="/news/tron-is-just-garbage-stellar-will-fail-founders-fight-club-3139.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/c65503f543.jpg" srcset="https://cimg.co/w/articles/1/5c2/c65503f543.jpg 150w, https://cimg.co/w/articles/2/5c2/c65503f543.jpg 300w, https://cimg.co/w/articles/3/5c2/c65503f543.jpg 600w, https://cimg.co/w/articles/4/5c2/c65503f543.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt=""></a><div class="props"><span class="notch"><a href="/news/altcoin-news/">Altcoin News</a><i><time datetime="2019-01-02T09:16:02+02:00">6  days ago</time></i></span><h4><a href="/news/tron-is-just-garbage-stellar-will-fail-founders-fight-club-3139.htm">Tron Is &quot;Just Garbage&quot;, &quot;Stellar Will Fail&quot; - Founders Fight Club</a></h4></div></div><div class="cn-tile article"><a href="/news/dmm-and-gmo-shut-down-mine-halt-hardware-sales-3138.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/c47827387f.jpg" srcset="https://cimg.co/w/articles/1/5c2/c47827387f.jpg 150w, https://cimg.co/w/articles/2/5c2/c47827387f.jpg 300w, https://cimg.co/w/articles/3/5c2/c47827387f.jpg 600w, https://cimg.co/w/articles/4/5c2/c47827387f.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/Ekkaluck"></a><div class="props"><span class="notch"><a href="/news/">News</a><i><time datetime="2019-01-02T07:08:52+02:00">Jan 02, 2019</time></i></span><h4><a href="/news/dmm-and-gmo-shut-down-mine-halt-hardware-sales-3138.htm">DMM and GMO Shut Down Mine, Halt Hardware Sales</a></h4></div></div><div class="cn-tile article"><a href="/news/bitcoin-and-altcoins-hesitate-but-further-gains-seem-likely-3135.htm" class="img"><img src="https://cimg.co/w/articles/1/5c2/9dd974987a.jpg" srcset="https://cimg.co/w/articles/1/5c2/9dd974987a.jpg 150w, https://cimg.co/w/articles/2/5c2/9dd974987a.jpg 300w, https://cimg.co/w/articles/3/5c2/9dd974987a.jpg 600w, https://cimg.co/w/articles/4/5c2/9dd974987a.jpg 1200w" sizes="(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw" alt="Source: iStock/Erikona"></a><div class="props"><span class="notch"><a href="/news/bitcoin-news/">Bitcoin News</a><i><time datetime="2018-12-31T11:12:25+02:00">Dec 31, 2018</time></i></span><h4><a href="/news/bitcoin-and-altcoins-hesitate-but-further-gains-seem-likely-3135.htm">Bitcoin and Altcoins Hesitate, But Further Gains Seem Likely</a></h4></div></div>
+		
+	</div>
+	<a href="https://www.youtube.com/channel/UCq1LxxUw6DVELFN0wOmLLQw?disable_polymer=true" rel="nofollow noopener" title="" target="_blank"
+				class="sponsored" data-bid="8"><img src="https://cimg.co/w/bn/0/5af/1b4cdb267a.png" alt="" border="0" /></a>
+
+	<div class="cn-section-controls" data-into="#newsContainer" data-script="_load_more">
+		<a href="/news/" class="hidden">Load more news...</a>
+		<span class="hidden">Loading...</span>
+		<script>window._load_more = {"event":"articles.articles#morepages","where":"YToyOntpOjA7aTowO2k6MTthOjE6e2k6MDtzOjY0OiJpZCBOT1QgSU4gKDIxNzMsIDIxNzIsIDIxNjUsIDIxNzEsIDIxNzAsIDIxNjksIDIxNjgsIDIxNjcsIDIxNjYpIjt9fQ==","offset":48,"pages":["<div class=\"cn-tile article\"><a href=\"\/news\/uk-watchdog-probing-18-crypto-vendors-3134.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/9c5d010414.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/9c5d010414.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/9c5d010414.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/9c5d010414.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/9c5d010414.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/AndreyPopov\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/\">News<\/a><i><time datetime=\"2018-12-31T09:30:58+02:00\">Dec 31, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/uk-watchdog-probing-18-crypto-vendors-3134.htm\">UK Watchdog Probing 18 Crypto Vendors<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/abkhazia-bans-cryptocurrency-mining-3133.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/9b08912255.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/9b08912255.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/9b08912255.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/9b08912255.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/9b08912255.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/shaadjutt\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/\">News<\/a><i><time datetime=\"2018-12-31T08:00:11+02:00\">Dec 31, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/abkhazia-bans-cryptocurrency-mining-3133.htm\">Abkhazia Bans Cryptocurrency Mining<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/craig-wright-denied-btc-1-1-million-lawsuit-dismissal-3131.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/63d891fee8.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/63d891fee8.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/63d891fee8.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/63d891fee8.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/63d891fee8.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-28T17:12:00+02:00\">Dec 28, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/craig-wright-denied-btc-1-1-million-lawsuit-dismissal-3131.htm\">Craig Wright Denied USD 1 Billion Lawsuit Dismissal<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/national-bank-of-kuwait-goes-ripple-3128.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/605cc4cdb3.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/605cc4cdb3.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/605cc4cdb3.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/605cc4cdb3.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/605cc4cdb3.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-28T13:14:54+02:00\">Dec 28, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/national-bank-of-kuwait-goes-ripple-3128.htm\">National Bank of Kuwait Goes Ripple<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/this-team-just-showed-weak-spots-of-ledger-and-trezor-wallet-3127.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/600dbb7995.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/600dbb7995.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/600dbb7995.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/600dbb7995.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/600dbb7995.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/rkankaro\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/\">News<\/a><i><time datetime=\"2018-12-28T12:53:00+02:00\">Dec 28, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/this-team-just-showed-weak-spots-of-ledger-and-trezor-wallet-3127.htm\">This Team Showed Weak Spots of Ledger and Trezor Wallets (UPDATED)<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-and-altcoins-move-into-bearish-region-3124.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/5cec2e816b.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/5cec2e816b.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/5cec2e816b.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/5cec2e816b.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/5cec2e816b.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/monsitj\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-28T09:20:00+02:00\">Dec 28, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-and-altcoins-move-into-bearish-region-3124.htm\">Bitcoin and Altcoins Move Into Bearish Region<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/electrum-wallets-target-of-malicious-attack-3123.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/50a574314c.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/50a574314c.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/50a574314c.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/50a574314c.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/50a574314c.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/solarseven\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-27T19:22:00+02:00\">Dec 27, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/electrum-wallets-target-of-malicious-attack-3123.htm\">Beware: Electrum Wallets Target of Malicious Attack<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/this-usd-1-million-bitcoin-bet-has-gone-awfully-wrong-3122.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/4b9ba0492c.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/4b9ba0492c.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/4b9ba0492c.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/4b9ba0492c.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/4b9ba0492c.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/DNY59\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-27T13:38:00+02:00\">Dec 27, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/this-usd-1-million-bitcoin-bet-has-gone-awfully-wrong-3122.htm\">This USD 1 Million Bitcoin Bet Has Gone Awfully Wrong<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/christmas-fights-vitalik-buterin-vs-proof-of-work-camp-3121.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/4a69c2e6d4.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/4a69c2e6d4.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/4a69c2e6d4.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/4a69c2e6d4.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/4a69c2e6d4.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/D-Keine\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/ethereum-news\/\">Ethereum News<\/a><i><time datetime=\"2018-12-27T12:16:30+02:00\">Dec 27, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/christmas-fights-vitalik-buterin-vs-proof-of-work-camp-3121.htm\">Christmas Fights: Vitalik Buterin vs. Proof of Work Camp<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-and-altcoins-near-make-or-break-levels-3120.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/47c77d87d3.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/47c77d87d3.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/47c77d87d3.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/47c77d87d3.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/47c77d87d3.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/vernonwiley\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-27T09:16:41+02:00\">Dec 27, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-and-altcoins-near-make-or-break-levels-3120.htm\">Bitcoin and Altcoins Near Make-or-Break Levels<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/the-annual-hodler-initiation-proof-of-keys-3117.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0e84b8e8b3.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0e84b8e8b3.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/0e84b8e8b3.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/0e84b8e8b3.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/0e84b8e8b3.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Vanda9\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-26T12:00:00+02:00\">Dec 26, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/the-annual-hodler-initiation-proof-of-keys-3117.htm\">The Annual HODLer Initiation: Proof of Keys<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-and-altcoins-could-resume-uptrend-3119.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/3380a08edc.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/3380a08edc.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/3380a08edc.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/3380a08edc.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/3380a08edc.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/mrtom-uk\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-26T10:12:28+02:00\">Dec 26, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-and-altcoins-could-resume-uptrend-3119.htm\">Bitcoin and Altcoins Could Resume Uptrend<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bored-already-check-this-crypto-logo-trivia-game-3118.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0f22ad5849.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0f22ad5849.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/0f22ad5849.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/0f22ad5849.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/0f22ad5849.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/TommL\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-25T09:59:00+02:00\">Dec 25, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bored-already-check-this-crypto-logo-trivia-game-3118.htm\">Bored Already? Check This Crypto Logo Trivia Game<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/crypto-bottom-calling-and-illusory-silence-of-institutionals-3116.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0d6d34d528.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0d6d34d528.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/0d6d34d528.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/0d6d34d528.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/0d6d34d528.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/PeopleImages\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-24T14:53:00+02:00\">Dec 24, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/crypto-bottom-calling-and-illusory-silence-of-institutionals-3116.htm\">Crypto Bottom Calling and Illusory Silence of Institutionals<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-private-premine-allegations-bring-price-down-3115.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0c687b0704.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/0c687b0704.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/0c687b0704.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/0c687b0704.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/0c687b0704.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/ljubaphoto\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-24T13:43:00+02:00\">Dec 24, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-private-premine-allegations-bring-price-down-3115.htm\">Bitcoin Private Premine Allegations Bring Price Down<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-looks-to-trade-higher-altcoins-outperform-3113.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/08920411f8.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c2\/08920411f8.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c2\/08920411f8.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c2\/08920411f8.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c2\/08920411f8.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Murat G\u00f6\u00e7men\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-24T09:21:00+02:00\">Dec 24, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-looks-to-trade-higher-altcoins-outperform-3113.htm\">Bitcoin Looks to Trade Higher, Altcoins Outperform<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/all-i-want-for-christmas-is-crypto-3109.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cefd88494b.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cefd88494b.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/cefd88494b.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/cefd88494b.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/cefd88494b.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Cronislaw\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-23T08:00:00+02:00\">Dec 23, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/all-i-want-for-christmas-is-crypto-3109.htm\">All I Want for Christmas Is - Crypto<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/tom-lee-gives-up-on-forecasting-bitcoin-price-3110.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cdbce6d09e.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cdbce6d09e.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/cdbce6d09e.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/cdbce6d09e.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/cdbce6d09e.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/cybrain\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-21T14:25:20+02:00\">Dec 21, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/tom-lee-gives-up-on-forecasting-bitcoin-price-3110.htm\">Tom Lee Gives Up on Forecasting Bitcoin Price<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/only-in-crypto-nano-gets-closer-to-4-000-merchants-price-dro-3108.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/ccad7a99e9.png\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/ccad7a99e9.png 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/ccad7a99e9.png 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/ccad7a99e9.png 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/ccad7a99e9.png 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-21T13:12:00+02:00\">Dec 21, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/only-in-crypto-nano-gets-closer-to-4-000-merchants-price-dro-3108.htm\">Only in Crypto: Nano Gets Closer to 4,000 Merchants, Price Drops<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/bitcoin-and-altcoins-buyers-remain-in-driver-s-seat-3107.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cab8317a01.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/cab8317a01.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/cab8317a01.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/cab8317a01.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/cab8317a01.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Savushkin\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-21T10:59:17+02:00\">Dec 21, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/bitcoin-and-altcoins-buyers-remain-in-driver-s-seat-3107.htm\">Bitcoin and Altcoins Buyers Remain In Driver\u2019s Seat<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/facebook-working-on-whatsapp-stablecoin-3106.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/c78689223c.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/c78689223c.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/c78689223c.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/c78689223c.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/c78689223c.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Sjo\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/altcoin-news\/\">Altcoin News<\/a><i><time datetime=\"2018-12-21T07:21:00+02:00\">Dec 21, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/facebook-working-on-whatsapp-stablecoin-3106.htm\">Facebook \u2018Working on WhatsApp Stablecoin\u2019<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/two-congressmen-propose-a-special-exemption-for-crypto-3105.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/c6e9672e8e.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/c6e9672e8e.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/c6e9672e8e.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/c6e9672e8e.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/c6e9672e8e.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"Source: iStock\/Juanmonino\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/bitcoin-news\/\">Bitcoin News<\/a><i><time datetime=\"2018-12-21T06:39:20+02:00\">Dec 21, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/two-congressmen-propose-a-special-exemption-for-crypto-3105.htm\">Two Congressmen Propose a Special Exemption for Crypto<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/tradecloud-to-launch-security-token-offering-3112.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/d29a2c3ff3.png\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/d29a2c3ff3.png 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/d29a2c3ff3.png 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/d29a2c3ff3.png 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/d29a2c3ff3.png 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/press-releases\/\">Press Releases<\/a><i><time datetime=\"2018-12-20T17:29:00+02:00\">Dec 20, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/tradecloud-to-launch-security-token-offering-3112.htm\">TradeCloud to launch Security Token Offering<\/a><\/h4><\/div><\/div><div class=\"cn-tile article\"><a href=\"\/news\/vitalik-does-give-eth-but-who-receives-it-3101.htm\" class=\"img\"><img src=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/b750ee4273.jpg\" srcset=\"https:\/\/cimg.co\/w\/articles\/1\/5c1\/b750ee4273.jpg 150w, https:\/\/cimg.co\/w\/articles\/2\/5c1\/b750ee4273.jpg 300w, https:\/\/cimg.co\/w\/articles\/3\/5c1\/b750ee4273.jpg 600w, https:\/\/cimg.co\/w\/articles\/4\/5c1\/b750ee4273.jpg 1200w\" sizes=\"(min-width: 900px) 25vw, (min-width: 640px) 50vw, 100vw\" alt=\"\"><\/a><div class=\"props\"><span class=\"notch\"><a href=\"\/news\/ethereum-news\/\">Ethereum News<\/a><i><time datetime=\"2018-12-20T13:47:39+02:00\">Dec 20, 2018<\/time><\/i><\/span><h4><a href=\"\/news\/vitalik-does-give-eth-but-who-receives-it-3101.htm\">Vitalik Does Give ETH - But Who Receives It?<\/a><\/h4><\/div><\/div>"]}</script>
+	</div>
+</section>
+<footer class="cn-app-footer">
+	<p class="copy">&copy;Cryptonews.com</p> 
+	<nav class="cn-social-links">
+		<a href="/news/feed" target="_blank"><i style="padding-left:4px;"> 
+				<svg enable-background="new 0 0 500 500" height="19px" id="Layer_1" version="1.1" viewBox="0 0 500 500" width="19px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.949,431.711c0,20.078,16.264,36.34,36.34,36.34h363.421  c20.078,0,36.34-16.262,36.34-36.34V68.29c0-20.077-16.262-36.34-36.34-36.34H68.29c-20.077,0-36.34,16.264-36.34,36.34V431.711z   M386.284,354.482c0,12.536-10.18,22.716-22.715,22.716c-12.537,0-22.717-10.18-22.717-22.716  c0-102.845-83.41-186.251-186.251-186.251c-12.536,0-22.713-10.177-22.713-22.713c0-12.538,10.177-22.715,22.713-22.715  c67.414,0,122.745,23.26,166.173,66.686C365.292,234.012,386.284,289.253,386.284,354.482z M304.513,354.482  c0,12.536-10.175,22.716-22.715,22.716c-12.536,0-22.712-10.18-22.712-22.716c0-57.688-46.795-104.482-104.484-104.482  c-12.536,0-22.713-10.177-22.713-22.713c0-12.539,10.177-22.713,22.713-22.713C237.366,204.574,304.513,271.723,304.513,354.482z   M131.889,336.314c0-22.628,18.26-40.888,40.885-40.888s40.884,18.26,40.884,40.888c0,22.623-18.258,40.884-40.884,40.884  S131.889,358.938,131.889,336.314z" fill="#ffffff" fill-rule="evenodd"/></svg>
+		</i></a>
+		<a href="https://t.me/cryptonews_official" target="_blank" rel="noopener">Telegram</a>
+			<a href="https://www.facebook.com/cryptonewscom-720874761445956/" target="_blank" rel="noopener">Facebook</a>
+			<a href="https://twitter.com/CryptonewsCom" target="_blank" rel="noopener">Twitter</a>
+			<a href="https://www.youtube.com/channel/UCq1LxxUw6DVELFN0wOmLLQw?disable_polymer=true" target="_blank" rel="noopener">YouTube</a>
+	</nav>
+
+	<div class="cn-tags">
+		
+			<!-- <span class="icn-tags"></span> -->
+			<a href="/tags/bitcoin/">Bitcoin</a> <a href="/tags/adoption/">Adoption</a> <a href="/tags/blockchain/">Blockchain</a> <a href="/tags/cryptocurrency/">Cryptocurrency</a> <a href="/tags/market/">Market</a> <a href="/tags/regulation/">Regulation</a> <a href="/tags/exchange/">Exchange</a> <a href="/tags/ico/">ICO</a> <a href="/tags/community/">Community</a> <a href="/tags/ethereum/">Ethereum</a> <a href="/tags/south-korea/">South Korea</a> <a href="/tags/trading/">Trading</a> <a href="/tags/ripple/">Ripple</a> <a href="/tags/investing/">Investing</a> <a href="/tags/bitcoin-cash/">Bitcoin Cash</a> <a href="/tags/japan/">Japan</a> <a href="/tags/mining/">Mining</a> <a href="/tags/markets/">MARKETS</a> <a href="/tags/ether/">Ether</a> <a href="/tags/security/">Security</a> <a href="/tags/hack/">Hack</a> <a href="/tags/coinbase/">Coinbase</a> <a href="/tags/society/">Society</a> <a href="/tags/china/">China</a> <a href="/tags/forecast/">Forecast</a> <a href="/tags/binance/">Binance</a> <a href="/tags/banking/">Banking</a> <a href="/tags/litecoin/">Litecoin</a> <a href="/tags/investment/">Investment</a> <a href="/tags/russia/">Russia</a> <a href="/tags/usa/">USA</a> <a href="/tags/ban/">Ban</a> <a href="/tags/sec/">SEC</a> <a href="/tags/bithumb/">Bithumb</a> <a href="/tags/vitalik-buterin/">Vitalik Buterin</a> <a href="/tags/tax/">Tax</a> <a href="/tags/scam/">Scam</a> <a href="/tags/payment/">Payment</a> <a href="/tags/humor/">Humor</a> <a href="/tags/eos/">EOS</a> <a href="/tags/monero/">Monero</a> <a href="/tags/retail/">retail</a> <a href="/tags/crime/">Crime</a> <a href="/tags/privacy/">Privacy</a> <a href="/tags/legal/">Legal</a> <a href="/tags/stablecoin/">Stablecoin</a> <a href="/tags/bitcoin-etf/">Bitcoin ETF</a> <a href="/tags/neo/">NEO</a> <a href="/tags/entertainment/">Entertainment</a> <a href="/tags/coincheck/">Coincheck</a> 
+		
+	</div>
+
+	<div class="cn-footer-nav">
+		<nav class="site-nav">
+			<a href="/about-us.htm">About Us</a><a href="/contact-us.htm">Contact Us</a><a href="/terms-and-conditions.htm">Terms &amp; Conditions</a><a href="/privacy-policy.htm">Privacy Policy</a><a href="/disclaimer.htm">Disclaimer</a>
+		</nav>
+		<nav class="main-nav">
+			<div>
+					<a href="/news/"><span>News</span></a>
+					
+					<div class="sub-nav">
+						<a href="/news/bitcoin-news/"><span>Bitcoin News</span></a><a href="/news/ethereum-news/"><span>Ethereum News</span></a><a href="/news/altcoin-news/"><span>Altcoin News</span></a><a href="/news/blockchain-news/"><span>Blockchain News</span></a><a href="/news/press-releases/"><span>Press Releases</span></a><a href="/news/sponsored/"><span>Sponsored</span></a>
+					</div>
+					
+				</div><div>
+					<a href="/exclusives/"><span>Exclusives</span></a>
+					
+					<div class="sub-nav">
+						<a href="/exclusives/features/"><span>Features</span></a><a href="/exclusives/opinions/"><span>Opinions</span></a><a href="/exclusives/people/"><span>People In Crypto</span></a>
+					</div>
+					
+				</div><div>
+					<a href="/videos/"><span>Videos</span></a>
+					
+					<div class="sub-nav">
+						<a href="/videos/ethereum/"><span>Ethereum Videos</span></a><a href="/videos/altcoin/"><span>Altcoin Videos</span></a><a href="/videos/bitcoin/"><span>Bitcoin Videos</span></a><a href="/videos/blockchain/"><span>Blockchain Videos</span></a><a href="/videos/icos/"><span>ICO Videos</span></a><a href="/videos/market/"><span>Market Videos</span></a><a href="/videos/trading/"><span>Trading Videos</span></a><a href="/videos/crytposecurity/"><span>Security Videos</span></a>
+					</div>
+					
+				</div><div>
+					<a href="/guides/"><span>Guides</span></a>
+					
+					<div class="sub-nav">
+						<a href="/guides/bitcoin/"><span>Bitcoin</span></a><a href="/guides/ethereum/"><span>Ethereum</span></a><a href="/guides/blockchain/"><span>Blockchain</span></a><a href="/guides/icos/"><span>ICOs</span></a><a href="/guides/cryptocurrency/"><span>Cryptocurrency</span></a><a href="/guides/altcoins/"><span>Altcoins</span></a>
+					</div>
+					
+				</div><div>
+					<a href="/reviews/"><span>Reviews</span></a>
+					
+				</div><div>
+					<a href="/events/"><span>Events</span></a>
+					
+				</div><div>
+					<a href="/price-tracker/"><span>Price Tracker</span></a>
+					
+				</div>
+		</nav>
+	</div>
+</footer>
+</div>
+	<script src="/assets/js/articles.loadmore.js?1537531201"></script>
+	<script src="/assets/js/other.banner.js?1537531201"></script>
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '892641644236996');
+	fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" alt=""
+	src="https://www.facebook.com/tr?id=892641644236996&ev=PageView&noscript=1"
+/></noscript><script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nywdm');
+twq('track','PageView');
+</script>
+<script type="text/javascript" async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bd00c9a2f9c6f67"></script> 
+</body>
+</html>

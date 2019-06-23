@@ -3,6 +3,7 @@ import json
 from nats.aio.client import Client as NATS
 import asyncio
 import time
+import sys
 
 nats = NATS()
 
